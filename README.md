@@ -1,3 +1,8 @@
+V1.5:
+- Add Speech to text và Text to speech
+- Fix dịch thuật cho đô thị
+- Add Imagen + Veo2
+- Add OCR truyện tranh
 
 V1.4:
 - Add dịch thuật truyện chữ đa thể loại
