@@ -1,3 +1,6 @@
+V1.7:
+-Đồng bộ hoá ver 2.3.5
+
 V1.6:
 - Release ver free: mỗi ngày có 5 lượt sub phim 20 lần dịch truyện cho ver free
 - Add logic Speech to text
