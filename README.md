@@ -1,3 +1,9 @@
+V1.6:
+- Release ver free: mỗi ngày có 5 lượt sub phim 20 lần dịch truyện cho ver free
+- Add logic Speech to text
+- Cải thiện FPS UI/UX
+- Add chatbox có thể chat trực tiếp với hỗ trợ mà không cần đăng nhập bất cứ thứ gì.
+- 
 V1.5:
 - Add Speech to text và Text to speech
 - Fix dịch thuật cho đô thị
