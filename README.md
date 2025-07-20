@@ -1,3 +1,8 @@
+V2.3.6
+- Hotfix dịch truyện, dịch SRT, xuất srt
+- Add beta data tên tiếng Trung
+- Fix ngốn ram
+  
 V1.7:
 -Đồng bộ hoá ver 2.3.5
 
