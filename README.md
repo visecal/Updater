@@ -1,3 +1,6 @@
+v2.3.7
+-Hotfix bug client
+
 V2.3.6
 - Hotfix dịch truyện, dịch SRT, xuất srt
 - Add beta data tên tiếng Trung
