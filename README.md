@@ -1,3 +1,7 @@
+v2.3.8
+-Add capcut crack
+-Fix ram cho OCR truyện tranh
+
 v2.3.7
 -Hotfix bug client
 
