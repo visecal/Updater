@@ -1,3 +1,11 @@
+V2.3.9:
+- Reset sever về chưa login với các user để fix lỗi thiết bị đăng nhập
+- Update sub phim với phiên bản OpenCV và Cuda mới nhất
+- Cập nhật clone giọng TVhay cho TTS
+- Add sub phim với AI AIOLauncher, dịch chính xác gần như tuyệt đối.
+- Fix OCR truyện tranh
+Link down: https://drive.google.com/file/d/19KwL0OPOsHZjF8Ct4WJhS4kdE2pdl3Ee
+
 v2.3.8
 -Add capcut crack
 -Fix ram cho OCR truyện tranh
