@@ -1,3 +1,8 @@
+V2.4.0:
+- Add API AIOLauncher - dịch thuật siêu chính xác cho truyện và sub phim
+- Fix lỗi sever
+- Fix OCR phim và vài lỗi lặt vặt
+  
 V2.3.9.1
 - Hotfix lấy sub phim
 Link down: https://drive.google.com/file/d/1qyHDJoHxAQqAZc_FrUjEnNz-1VUk5B08
