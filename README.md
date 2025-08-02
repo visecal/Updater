@@ -1,3 +1,8 @@
+V2.4.1:
+- Fix sub phim lấy thiếu sub
+- Fix sever trả sai kết quả
+- Add beta TTS ( mở vào 3/7?2025
+  
 V2.4.0:
 - Add API AIOLauncher - dịch thuật siêu chính xác cho truyện và sub phim
 - Fix lỗi sever
