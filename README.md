@@ -1,3 +1,9 @@
+v2.4.3:
+- Cải thiện hiệu năng app, thêm phím tắt cho sub phim
+- Mở lại Edit truyện tranh
+- Fix OCR truyện tranh
+-Add beta chức năng xem phim free no ads
+
 V2.4.2:
 - Server up, app hoạt động trở lại với các chức năng: TTS, sub phim, OCR văn bản - truyện - Edit truyện
 - Đã cộng 5 ngày cho tất cả user paid do sever ngừng hoạt động
