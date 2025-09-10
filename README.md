@@ -1,3 +1,11 @@
+V2.4.4 và v2.4.5:
+- Open edit phim cho tất cả user từ free - paid
+- Fix các lỗi feedback từ user
+- improved trình phát với các API ffmpeg: bây giờ trình phát đã hoạt động ổn định hơn, không còn các lỗi lặt vặt, tua seek mượt mà
+- improved OCR: tự động phát hiện lỗi và ocr lại trước khi dịch mà user không cần làm thủ công, thêm chức năng clean mới
+- Add API AIOLauncher cho dịch thuật truyện chữ, free 10000 ký tự / ngày
+- Tạm thời loại bỏ chức năng mix audio trong edit video để nâng cấp âm thanh sau khi mixer và tương thích playback mới
+- 
 v2.4.3:
 - Cải thiện hiệu năng app, thêm phím tắt cho sub phim
 - Mở lại Edit truyện tranh
